@@ -5,7 +5,7 @@
 
 > Marcela Ibarra Mora A01231973
 
-*CleaningData.ipybn* - Notebook containing the code with the first processing and cleaning of the files CSV, the main purpose of this first approach is to know the data, verify the null values, and make decisions about our most important variables for our analysis.
+*CleaningData.ipybn* - Notebook containing the code with the first processing, cleaning, and transformation data of the files CSV, the main purpose of this first approach is to know the data, verify the null values, and make decisions about the most important variables for our analysis.
 
 *holidays_events.csv* - File with the events divided into national, local, or regional celebration, especify the location, type of event and a brief description of the feast day.
 
